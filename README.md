@@ -24,7 +24,7 @@ A curated list of awesome references for AIML in Life Sciences
   - [Architecting for HIPAA Security and Compliance on AWS](https://docs.aws.amazon.com/pdfs/whitepapers/latest/architecting-hipaa-security-and-compliance-on-aws/architecting-hipaa-security-and-compliance-on-aws.pdf?refid=cr_card)
   - [GxP Systems on AWS](https://docs.aws.amazon.com/whitepapers/latest/gxp-systems-on-aws/gxp-systems-on-aws.html)
 
-* [**ML Pltform**](ML_platform.md)
+* [**ML Platform**](ML_platform.md)
   - [Getting started with Amazon SageMaker](https://github.com/aws-samples/awesome-sagemaker/blob/main/getting_started.md#ml-platform-setup)
   - [AstraZeneca Accelerates Time to Insights Using Amazon SageMaker](https://aws.amazon.com/solutions/case-studies/AstraZeneca-case-study/)
   - [Janssen Pharmaceuticals Increases Machine Learning Accuracy by 21% Using Amazon SageMaker](https://aws.amazon.com/solutions/case-studies/janssen-case-study/)
